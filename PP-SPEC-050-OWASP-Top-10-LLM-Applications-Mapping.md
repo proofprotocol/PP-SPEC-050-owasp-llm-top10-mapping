@@ -118,13 +118,13 @@ The OWASP Top 10 for LLM Applications is external work of the OWASP GenAI Securi
 
 The OWASP GenAI Security Project site (https://genai.owasp.org/llm-top-10/) states: "Unless otherwise specified, all content on the site is Creative Commons Attribution-ShareAlike v4.0 and provided without warranty of service or accuracy." The project source repository (https://github.com/GenAI-Security-Project/GenAI-LLM-Top10) names the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0). CC BY-SA 4.0 is a ShareAlike license: adapted material that reproduces or modifies OWASP text would have to be distributed under CC BY-SA 4.0 or a compatible license.
 
-This Proof Protocol mapping is independently authored and licensed under **CC BY 4.0**. It references OWASP identifiers and the identifier format for interoperability, reproduces no OWASP descriptive text, and does not relicense OWASP material.
+This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 ### Required attribution
 
 CC BY-SA 4.0 requires attribution when OWASP material is shared or adapted. The OWASP repository README supplies citation metadata (author: OWASP GenAI Security Project; year: 2026; title: OWASP Top 10 for Large Language Model Applications; version: 2026; publisher: OWASP Foundation; version DOI: 10.5281/zenodo.22109015). The following attribution, built from that metadata, is used:
 
-> OWASP Top 10 for Large Language Model Applications, Version 2026, OWASP GenAI Security Project, OWASP Foundation, https://doi.org/10.5281/zenodo.22109015 (https://genai.owasp.org/llm-top-10/), licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+> OWASP Top 10 for Large Language Model Applications, Version 2026, OWASP GenAI Security Project, OWASP Foundation, https://doi.org/10.5281/zenodo.22109015 (https://genai.owasp.org/llm-top-10/), Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 The OWASP site carries the following trademark statement, quoted verbatim:
 

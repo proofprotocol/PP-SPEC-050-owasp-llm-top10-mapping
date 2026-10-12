@@ -2,7 +2,7 @@
 
 **Status:** DRAFT v0.1  
 **Author:** Craig Ellrod / Nebulonium, Inc. / HACKERverse®  
-**License:** CC BY 4.0
+**License:** Greater Good Commercial License 1.0 (GGL-C-1.0); text CC BY-ND 4.0 under Part S. See LICENSE.md.
 
 **Normative specification:** [`PP-SPEC-050-OWASP-Top-10-LLM-Applications-Mapping.md`](./PP-SPEC-050-OWASP-Top-10-LLM-Applications-Mapping.md)
 
@@ -32,6 +32,6 @@ This Proof Protocol mapping is independently authored. OWASP names, risk identif
 
 Upstream attribution and trademark notice:
 
-OWASP Top 10 for Large Language Model Applications, Version 2026, OWASP GenAI Security Project, OWASP Foundation, https://doi.org/10.5281/zenodo.22109015 (https://genai.owasp.org/llm-top-10/), licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Only identifiers and risk names are referenced; no OWASP text is reproduced or adapted.
+OWASP Top 10 for Large Language Model Applications, Version 2026, OWASP GenAI Security Project, OWASP Foundation, https://doi.org/10.5281/zenodo.22109015 (https://genai.owasp.org/llm-top-10/), Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 OWASP and the OWASP logo are trademarks of the OWASP Foundation, Inc.
